@@ -75,7 +75,7 @@ def conver_image(data, labels):
 
 
 if __name__ == '__main__':
-    folders = r'C:\Users\tyous\Desktop\MYWORK\data_manager\data\cifar-10-batches-py'
+    folders = r'data_manager\data\cifar-10-batches-py'
     DATA_URL = 'http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
     DATA_DIR = 'data'
 
